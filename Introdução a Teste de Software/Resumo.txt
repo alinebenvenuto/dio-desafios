@@ -1,0 +1,37 @@
+Técnicas de Testes
+• Funcional = caixa preta - sem código
+• Estrutural = caixa branca - com código
+
+Tipos de Testes
+• Funcionalidade
+• Usabilidade
+• Perfomance
+• Segurança
+
+Níveis de Testes
+• Unidade
+• Integração
+• Sistema
+• Aceitação - Cliente
+
+Etapas
+Planejar = desenho do software - junto planeja. software
+	• estratégia;
+	• plano de teste;
+	• cenários básicos;
+Ferramentas: Azure,Jira,TesteLink
+
+Projetar = Desenhar cada caso de testes, melhor técnica
+	• elaborar casos de testes;
+	• técnicas de testes;
+Ferramentas: Azure,Jira,TesteLink
+
+
+Executar = executar os testes, reportar bugs,evidências 
+Ferramentas: Azure,Jira,TesteLink,Bugzila,Redmine,Mantis
+
+Entrega = Entregar evidências dos testes, scripts e etc
+Ferramentas: Azure,Jira,TesteLink
+
+Projetar
+• Nome;Objetivo;Pré-condições;Passo a Passo;Resultado esperado
